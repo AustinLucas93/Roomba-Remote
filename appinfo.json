@@ -1,0 +1,20 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "companyName": "awl5xz@virginia.edu",
+    "longName": "AppMessage Example",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "AppMessage Example",
+    "uuid": "11cccb16-6d43-4a4f-a5f5-bd3cfc3e5bc1",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
